@@ -67,7 +67,7 @@ function draw() {
 	   fairyVoice.play()
 
    }
-   
+  
   drawSprites();
 
 }
